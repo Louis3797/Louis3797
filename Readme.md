@@ -10,7 +10,7 @@ Interested in:
 - Data Science
 - Machine Learning and Deep Learning
 
-Languages and Tools that i use:
+Languages and Tools that I use:
 - Java
 - Python
 - Javascript
