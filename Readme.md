@@ -1,18 +1,19 @@
-# Hey whats up !
+# **Hey whats up !**
 
 Im Louis a German Computer Science student.
 
 
-# Facts about me:
+## Facts about me:
 
 Interested in: 
 - Web Dev
 - Data Science
 - Machine Learning and Deep Learning
 
-Languages and Tools that I use:
+### Technologies that I use:
 - Java
 - Python
+- Node.js
 - Javascript
 - Dart
 - Typescript
@@ -21,6 +22,7 @@ Languages and Tools that I use:
 - CSS3
 - Bootstrap
 - Next.js
+- GraphQL
 - Git
 - Github
  
