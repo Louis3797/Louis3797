@@ -1,28 +1,14 @@
-# **Hey whats up !**
+# **Hey, I'm Louis a German computer science student**
 
-Im Louis a German Computer Science student.
+My interests are in the full stack development of web and app applications and I'm also very interested in Web 3.0 and NFT technology.
+Here on my Github Page you can check out my progress and projects
 
-
-## Facts about me:
-
-Interested in: 
-- Web Dev
-- Data Science
-- Machine Learning and Deep Learning
-
+Current Project:
+ - Social Network named [sociaty](https://github.com/Louis3797/Sociaty)
+Future projects: 
+ - Nestjs Talk Server Microservice 
+ - some DSA projects 
+ - maybe a Web3 NFT based project
+ - 
 ### Technologies that I use:
-- Java
-- Python
-- Node.js
-- Javascript
-- Dart
-- Typescript
-- C
-- HTML5
-- CSS3
-- Bootstrap
-- Next.js
-- GraphQL
-- Git
-- Github
- 
+C, Java, Python, Javascript, Typescript, Node.js, React (Next.js), GraphQL, React Native, MySQL, Dart
