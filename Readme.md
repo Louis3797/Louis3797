@@ -9,6 +9,6 @@ Future projects:
  - Nestjs Talk Server Microservice 
  - some DSA projects 
  - maybe a Web3 NFT based project
- - 
+ 
 ### Technologies that I use:
 C, Java, Python, Javascript, Typescript, Node.js, React (Next.js), GraphQL, React Native, MySQL, Dart
