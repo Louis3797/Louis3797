@@ -5,7 +5,8 @@ Here on my Github Page you can check out my progress and projects
 
 ## Projects
 ### Current Project:
- - Social Network named [sociaty](https://github.com/Louis3797/Sociaty)
+ - Social Network named [sociaty](https://github.com/Louis3797/Sociaty) // on ice work continues if i have more time
+ - [big-sheet](https://github.com/Louis3797/big-sheet)
 ### Future projects: 
  - Nestjs Talk Server Microservice 
  - some DSA projects 
