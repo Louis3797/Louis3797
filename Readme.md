@@ -67,8 +67,13 @@
 </br> 
 </br>
 
-<p align="center">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=louis3797&theme=discord_old_blurple&show_icons=true&locale=en&layout=compact" alt="louis3797" />
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=louis3797&theme=discord_old_blurple&show_icons=true&locale=en" alt="louis3797" /> </p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=louis3797&theme=discord_old_blurple&show_icons=true&locale=en&layout=compact" alt="louis3797" />
+</p>
+ 
+
+ <p align="center">&nbsp;  <img src="https://github-readme-stats.vercel.app/api?username=louis3797&theme=discord_old_blurple&show_icons=true&locale=en" alt="louis3797" />
+</p>
+ 
 
 
 
