@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Louis a German CS student</h1>
 
 <p align="left"> 
- <img align="left" src="https://komarev.com/ghpvc/?username=louis3797&label=Profile%20views&color=0e75b6&style=flat" alt="louis3797" />  
+ <img align="left" height="25" src="https://komarev.com/ghpvc/?username=louis3797&label=Profile%20views&color=0e75b6&style=flat" alt="louis3797" />  
  
-  <img align="left" src="https://img.shields.io/github/followers/Louis3797.svg?style=social&label=Follow&maxAge=2592000" />  
+  <img align="left" height="25" src="https://img.shields.io/github/followers/Louis3797.svg?style=social&label=Follow&maxAge=2592000" />  
  
  <a href="https://twitter.com/lx_uis">
-    <img align="left" alt="Hargun | Twitter" height="20" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img align="left" alt="Hargun | Twitter" height="25" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
  
   <a href="https://www.instagram.com/codewithlouis">
-    <img  alt="Hargun | Instagram" height="20" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img  alt="Hargun | Instagram" height="25" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a> 
 </p>
 
