@@ -23,14 +23,14 @@
 
 ### :hammer: I am currently working on :
 
- - Social Network named [sociaty](https://github.com/Louis3797/Sociaty) -> on ice work continues if i have more time
+ - Social Network named [sociaty](https://github.com/Louis3797/Sociaty) 
  - A cheatsheet for a bunch of topics [big-sheet](https://github.com/Louis3797/big-sheet) 
  
 ### :hourglass_flowing_sand: Future projects: 
 
- - Nestjs Talk Server Microservice 
- - Some DSA projects 
- - Blockchain and Web3 bases Projects
+ - Nestjs Talk Server Microservice
+ - Maybe an own Database 
+ - A talk platform
  - Maybe a Web3 NFT based project
 
 ---
@@ -44,21 +44,16 @@
  <img alt="js" height="25" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
  <img alt="typescript" height="25" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
  <img alt="nodejs" height="25" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
- <img alt="saas" height="25" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
  <img alt="c" height="25" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
  <img alt="java" height="25" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
- <img alt="dart" height="25" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
  <img alt="markdown" height="25" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
- <img alt="express" height="25" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
  <img alt="react" height="25" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
  <img alt="react-native" height="25" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img alt="next" height="25" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
  <img alt="graphql" height="25" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
  <img alt="apollo-graphql" height="25" src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)" />
-  <img alt="flutter" height="25" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
  
   <img alt="mysql" height="25" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img alt="mongodb" height="25" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img alt="tailwind" height="25" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img alt="bootstrap" height="25" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img alt="material-ui" height="25" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
