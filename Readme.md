@@ -15,7 +15,7 @@
 </p>
 
 
-#### German computer science student. I mostly use Nextjs, Node, GraphQL and MySQL.
+### German computer science student. I mostly use Nextjs, Node, GraphQL and MySQL.
 
 
 ---
