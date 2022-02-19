@@ -7,6 +7,7 @@
  
 </p>
 
+<br/>
 
 ### German computer science student. I mostly use Nextjs, Node, GraphQL and MySQL.
 
