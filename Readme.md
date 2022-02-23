@@ -13,7 +13,7 @@
 
  <br/>
 
-## 📘 What I want to learn this yaer (2022):
+## 📘 What I want to learn this year (2022):
 
 * [x] [Monorepos with Nx](https://nx.dev/) 
 * [ ] [Golang](https://go.dev/) 
