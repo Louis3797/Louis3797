@@ -16,7 +16,7 @@
 ## 📘 What I want to learn this year (2022):
 
 * [x] [Monorepos with Nx](https://nx.dev/) 
-* [ ] [Golang](https://go.dev/) 
+* [x] [Golang](https://go.dev/) 
 * [ ] [NestJs](https://nestjs.com/) 
 * [x] [Docker](https://www.docker.com/) 
 * [ ] [Neo4j](https://neo4j.com/) 
@@ -47,7 +47,7 @@
  <img alt="nodejs" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
  <img alt="express" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
  <img alt="nestjs" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
-<!--   <img alt="golang" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />  -->
+<img alt="golang" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" /> 
  <img alt="graphql" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
  <img alt="jest" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
  <img alt="cypress" height="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg"" />
