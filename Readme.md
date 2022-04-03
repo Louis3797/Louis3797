@@ -23,7 +23,7 @@
 * [ ] [RabbitMQ](https://www.rabbitmq.com/) 
 * [ ] [Kafka](https://kafka.apache.org/) 
 * [ ] [Elasticsearch](https://www.elastic.co/de/elasticsearch/) 
-* [ ] [Three.js](https://threejs.org/)
+* [x] [Three.js](https://threejs.org/)
 
 
  
