@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Louis</h1>
 
-<p align="left"> 
- <img align="left" height="25" src="https://komarev.com/ghpvc/?username=louis3797&label=Profile%20views&color=0e75b6&style=flat" alt="louis3797" />  
+<p align="center"> 
+ <img src="https://komarev.com/ghpvc/?username=louis3797&label=Profile%20views&color=0e75b6&style=flat" alt="louis3797" />  
 
-  <img align="left" height="25" src="https://img.shields.io/github/followers/Louis3797.svg?style=social&label=Follow&maxAge=2592000" />  
- 
+  <img src="https://img.shields.io/github/followers/Louis3797.svg?label=Follow&maxAge=2592000" />  
+   <img src="https://img.shields.io/github/stars/Louis3797" />  
+
 </p>
  <br/>
 <br/>
@@ -69,14 +70,18 @@
 
 
 ## 📫 Connect with me!
-<p align="left"> 
+<p > 
 
  <a href="https://twitter.com/codewithlouiss">
-    <img align="left" alt="Twitter" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
+    <img  alt="Twitter" height="25" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
  
   <a href="https://www.instagram.com/codewithlouis">
-    <img  alt="Instagram" height="40" src="https://cdn.worldvectorlogo.com/logos/instagram-2016-5.svg" />
+    <img  alt="Instagram" height="25" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a> 
+ 
+   <a href="https://dev.to/louis3797">
+    <img  alt="Dev.to" height="25" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
   </a> 
 </p>
 
