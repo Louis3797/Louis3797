@@ -7,7 +7,7 @@
 
 German computer science student that loves to build something with React.js and GraphQL 
 
-## 💻 Thing i code with:
+## 💻 Things I code with:
 
 <br/>
 <p align="center"> 
