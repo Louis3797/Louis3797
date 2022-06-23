@@ -57,6 +57,7 @@ German computer science student that loves to build something with React.js and 
 * [ ] [Kafka](https://kafka.apache.org/) 
 * [ ] [Elasticsearch](https://www.elastic.co/de/elasticsearch/) 
 * [x] [Three.js](https://threejs.org/)
+* [ ] [C++](https://en.cppreference.com/w/)
 
 <br/>
 
