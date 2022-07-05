@@ -9,13 +9,12 @@ I am a computer science student from Germany with +4 years of programming experi
 
 ## Skills
 
-<br/>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,css,docker,express,git,go,graphql,html,java,js,jest,md,mysql,nestjs,nextjs,nodejs,prisma,py,react,redis,tailwind,ts,vercel,vim&perline=13" />
   </a>
 </p>
- <br/>
 
 ## Currently learning (2022):
 
@@ -25,9 +24,6 @@ I am a computer science student from Germany with +4 years of programming experi
 * [ ] [Neo4j](https://neo4j.com/) 
 * [x] [Three.js](https://threejs.org/)
 * [ ] [C++](https://en.cppreference.com/w/)
-
-<br/>
-
 
 ## Connect with me!
 <p > 
