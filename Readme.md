@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=FFFFFF&lines=Hey+im+Louis-Kaan+Ay!)](https://git.io/typing-svg)
 
-I am a computer science student from Germany with +4 years of programming experience. I am interested in many areas, from software development, web technologies, databases to data structures and algorithms. Meanwhile I also have an eye on compiler design and machine learning. My experience in these areas is growing steadily. Currently I am learning C++, but my main languages are Java and Typescript. I also have a good knowledge of data structures and algorithms, design patterns and clean code.
+I am a computer science student from Germany with +4 years of programming experience. I am interested in many areas, from software development, distributed systems, databases to data structures and algorithms. Meanwhile I also have an eye on compiler design and machine learning/deep learning. My experience in these areas is growing steadily. Currently I am learning C++, but my main languages are Java and Typescript. I also have a good knowledge of data structures and algorithms, design patterns and clean code.
 
 <p align="left"> 
  <img src="https://img.shields.io/github/followers/Louis3797?color=2396ED&label=Followers" alt="louis3797" />  
