@@ -16,6 +16,10 @@ I am a computer science student from Germany with +4 years of programming experi
   </a>
 </p>
 
+## Gists
+
+Also have a look at my [Gists](https://gist.github.com/Louis3797) I uploaded!
+ 
 ## Currently learning (2022):
 
 * [x] [Monorepos with Nx](https://nx.dev/) 
