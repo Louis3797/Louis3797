@@ -12,7 +12,7 @@ I am a computer science student from Germany with +4 years of programming experi
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,css,docker,express,git,go,graphql,html,java,js,jest,md,mysql,nestjs,nextjs,nodejs,prisma,py,react,redis,tailwind,ts,vercel,vim&perline=13" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,docker,express,go,java,js,md,mysql,nextjs,nodejs,py,react,redis,tailwind,ts,vim&perline=13" />
   </a>
 </p>
 
