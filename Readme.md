@@ -12,7 +12,7 @@ I am a computer science student from Germany with +4 years of programming experi
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,docker,express,go,java,js,md,mysql,nextjs,nodejs,py,react,redis,tailwind,ts,vim&perline=13" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,docker,express,go,java,js,md,mysql,nextjs,nodejs,py,react,redis,tailwind,ts,vim,azure&perline=13" />
   </a>
 </p>
 
@@ -20,14 +20,10 @@ I am a computer science student from Germany with +4 years of programming experi
 
 Also have a look at my [Gists](https://gist.github.com/Louis3797) I uploaded!
  
-## Currently learning (2022):
+## Currently learning (2023):
 
-* [x] [Monorepos with Nx](https://nx.dev/) 
-* [x] [Golang](https://go.dev/) 
-* [x] [Docker](https://www.docker.com/) 
-* [ ] [Neo4j](https://neo4j.com/) 
-* [x] [Three.js](https://threejs.org/)
-* [x] [C++](https://en.cppreference.com/w/)
+* [ ] [Spring Boot](https://spring.io/) 
+
 
 ## Connect with me!
 <p > 
