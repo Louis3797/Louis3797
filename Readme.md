@@ -28,7 +28,12 @@ Also have a look at my [Gists](https://gist.github.com/Louis3797) I uploaded!
  
 ## Currently learning (2023):
 
-* [ ] [Spring Boot](https://spring.io/) 
+* [ ] [Spring Boot](https://spring.io/)
+* [ ] Microservices
+* [ ] [Keycloak](https://www.keycloak.org/)
+* [ ] [RabbitMQ](https://www.rabbitmq.com/)
+* [ ] [Apache Kafka](https://kafka.apache.org/)
+* [ ] [Elasticsearch](https://www.elastic.co/de/elasticsearch)
 
 
 ## Connect with me!
