@@ -2,8 +2,10 @@
 
 <p align="left"> 
  <img src="https://img.shields.io/github/followers/Louis3797?color=2396ED&label=Followers" alt="louis3797" />  
- <img src="https://img.shields.io/github/stars/Louis3797?style=flat&color=2396ED" />  
+ <img src="https://img.shields.io/github/stars/Louis3797?style=flat&color=2396ED" /> 
+ <img src="https://komarev.com/ghpvc/?username=Louis3797" />
 </p>
+
 
 Hey there! I'm a computer science student from Germany, with over six exciting years of programming experience under my belt. I'm deeply passionate about crafting software, tinkering on fullstack projects, and diving into databases, system architecture, and data structures and algorithms.
 
