@@ -7,7 +7,7 @@
 </p>
 
 
-Hey there! I'm a computer science student from Germany, with over six exciting years of programming experience under my belt. I'm deeply passionate about crafting software, tinkering on fullstack projects, and diving into databases, system architecture, and data structures and algorithms.
+Hey there! I'm a computer science student from Germany, with over six exciting years of programming experience under my belt. I'm deeply passionate about crafting software, tinkering on fullstack projects, and diving into databases, system architecture and big data architecture.
 
 Typescript and Java are my go-to programming languages, empowering me to bring ideas to life and create cool stuff. Along the way, I've honed my skills in data structures, algorithms, design patterns, and writing clean code for smoother development.
 
@@ -25,7 +25,7 @@ Seeking new challenges is my forte, and I'm eager to make a difference with my s
 
 Also have a look at my [Gists](https://gist.github.com/Louis3797) I uploaded!
  
-## Technologies i want to use this year (2024):
+## Technologies and Concepts i want to use this year:
 
 * [ ] [Spring Boot](https://spring.io/)
 * [x] [WebRTC](https://webrtc.org/?hl=de)
@@ -33,4 +33,9 @@ Also have a look at my [Gists](https://gist.github.com/Louis3797) I uploaded!
 * [x] [Keycloak](https://www.keycloak.org/)
 * [x] [RabbitMQ](https://www.rabbitmq.com/)
 * [ ] [Apache Kafka](https://kafka.apache.org/)
+* [ ] [Apache Spark](https://spark.apache.org/)
+* [ ] [Apache Hadoop](https://hadoop.apache.org/)
+* [ ] [Cassandra](https://cassandra.apache.org/_/index.html)
+* [ ] Big Data Architecture
 * [ ] [Elasticsearch](https://www.elastic.co/de/elasticsearch)
+
