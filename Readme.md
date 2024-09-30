@@ -27,7 +27,8 @@ Also have a look at my [Gists](https://gist.github.com/Louis3797) I uploaded!
  
 ## Technologies and Concepts i want to use this year:
 
-* [ ] [Spring Boot](https://spring.io/)
+* [ ] [C#](https://learn.microsoft.com/de-de/dotnet/csharp/)
+* [ ] [Asp.net](https://dotnet.microsoft.com/en-us/apps/aspnet)
 * [x] [WebRTC](https://webrtc.org/?hl=de)
 * [x] [mediasoup](https://mediasoup.org/)
 * [x] [Keycloak](https://www.keycloak.org/)
