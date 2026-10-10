@@ -10,7 +10,7 @@ Computer science student in Germany—engineering my own obsolescence since 201
 <br></br>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,ts,js,go,java,react,nextjs,angular,nodejs,express,mysql,postgres,docker,rabbitmq,py,opencv,redis,tailwind,md,figma,githubactions,azure&perline=13" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,ts,js,go,java,react,nextjs,angular,nodejs,express,mysql,postgres,docker,rabbitmq,py,opencv,redis,tailwind,md,figma,githubactions,azure,kubernetes&perline=13" />
   </a>
 </p>
 <!--
